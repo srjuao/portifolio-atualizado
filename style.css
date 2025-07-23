@@ -14,7 +14,7 @@ html, body {
   display: flex;
   height: 100vh;
   width: max-content;
-  background-image: url("img/walppaper site.jpg"); /* ✅ corrigido */
+  background-image: url("img/walppaper-site.jpg"); /* ✅ corrigido */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
